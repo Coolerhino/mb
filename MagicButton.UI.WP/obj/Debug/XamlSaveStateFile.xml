@@ -1,4 +1,10 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\users\emili\documents\visual studio 2015\projects\magicbutton\packages\mvvmcross.binding.4.2.1\lib\wpa81\mvvmcross.binding.dll" HashGuid="8c450844-f398-496d-18d1-c40ccf1d5221" />
+    <ReferenceAssembly PathName="c:\users\emili\documents\visual studio 2015\projects\magicbutton\packages\mvvmcross.core.4.2.1\lib\wpa81\mvvmcross.core.dll" HashGuid="eb6d76fc-42d4-1e88-c0ee-a6ccf454a51d" />
+    <ReferenceAssembly PathName="c:\users\emili\documents\visual studio 2015\projects\magicbutton\packages\mvvmcross.binding.4.2.1\lib\wpa81\mvvmcross.localization.dll" HashGuid="45b8d9a9-1ce4-d2c5-b08f-ddebc76f754f" />
+    <ReferenceAssembly PathName="c:\users\emili\documents\visual studio 2015\projects\magicbutton\packages\mvvmcross.platform.4.2.1\lib\wpa81\mvvmcross.platform.dll" HashGuid="905a6456-7d01-0eb7-0ee3-9173fcea82c4" />
+    <ReferenceAssembly PathName="c:\users\emili\documents\visual studio 2015\projects\magicbutton\packages\mvvmcross.platform.4.2.1\lib\wpa81\mvvmcross.platform.windowscommon.dll" HashGuid="0d2d3742-6c74-6fa4-8128-2f7a3fda78ad" />
+    <ReferenceAssembly PathName="c:\users\emili\documents\visual studio 2015\projects\magicbutton\packages\mvvmcross.core.4.2.1\lib\wpa81\mvvmcross.windowscommon.dll" HashGuid="67493d55-766c-65f2-5c70-60a35357738f" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>
